@@ -297,7 +297,7 @@ update while draft; `pending` callback; amount update while pending -> 409
 
 Measured:
 
-Measured (abridged; full JSON in `_tmp` during the run, one line per call):
+Measured (abridged; the run captured one JSON line per call):
 
 ```text
 {"step": "healthz", "status": 200, "body": {"status": "ok"}}
